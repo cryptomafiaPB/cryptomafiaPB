@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cryptomafiaPB
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning PHP,Python & JavaScript
-- 💞️ I’m looking to collaborate on any Python Project
+- 👀 I’m interested in Web.
+- 🌱 I’m currently learning Python & JavaScript, Typescript.
+- 💞️ I’m looking to collaborate on any Project
 - 📫 How to reach me just search it up on Telegram @roockerz
 
 <!---
